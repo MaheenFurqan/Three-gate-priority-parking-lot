@@ -45,10 +45,7 @@ The selected gate inputs are combined using an OR gate to provide the counter in
 
 The project report is included in this repository and contains the design methodology, Boolean expressions, circuit implementation, testing, and results.
 
-## Authors
+## Author
 
 **Maheen Furqan**  
-**Bareerah Haroon**  
-**Arisha Mohsin**
-
 FAST-NUCES, Islamabad
